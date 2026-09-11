@@ -1,4 +1,5 @@
 (*  Title:      MathFormalizer/ring_term_ord.ML
+    License:    LGPL-2.1-or-later
 
 A term order for ordered rewriting in the simplifier that knows the ring operations of
 HOL-Algebra.

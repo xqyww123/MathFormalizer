@@ -18,3 +18,7 @@ isabelle build -d . MathFormalizer
 ```
 
 or import `Math_Formalizer` from a theory in a session based on `HOL-Algebra`.
+
+## License
+
+LGPL-2.1-or-later. See `LICENSE`.
